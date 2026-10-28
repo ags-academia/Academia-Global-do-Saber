@@ -1,0 +1,28 @@
+AGS — Academia Global do Saber | Site gratuito
+================================================
+
+Ficheiros:
+- index.html: conteúdo e estrutura do site
+- style.css: design responsivo, cores e animações
+- script.js: menu móvel, animações e formulário para WhatsApp
+
+Como testar:
+1. Extraia o ficheiro ZIP.
+2. Abra index.html num navegador.
+3. Para o formulário de inscrição, o navegador precisa de acesso à Internet para abrir o WhatsApp.
+
+Como publicar gratuitamente com GitHub Pages:
+1. Crie uma conta em https://github.com/ (se ainda não tiver).
+2. Crie um repositório público chamado ags-academia.
+3. Carregue index.html, style.css e script.js na raiz do repositório.
+4. No repositório, abra Settings > Pages.
+5. Em Build and deployment, escolha Deploy from a branch; seleccione a branch main e a pasta /(root), e guarde.
+6. Aguarde a publicação. O endereço será semelhante a https://SEU-UTILIZADOR.github.io/ags-academia/.
+
+Importante:
+- Não é necessário pagar domínio para usar o endereço gratuito do GitHub Pages.
+- Os links de WhatsApp usam os números fornecidos: 860438223 e 868386680 (com indicativo +258).
+- O link do Facebook pesquisa “Academia Global do Saber”; substitua-o pelo endereço exacto da página oficial quando disponível.
+- A biblioteca está identificada como reservada, mas este modelo não implementa autenticação/login. Para proteger efectivamente os materiais, partilhe-os por Google Drive com acesso restrito aos e-mails dos alunos inscritos e coloque o link correcto na página.
+- O formulário não guarda os dados no site: abre o WhatsApp com a mensagem preenchida para o utilizador confirmar o envio.
+- O site usa fontes Google Fonts; se não houver Internet, será apresentada uma fonte alternativa.
